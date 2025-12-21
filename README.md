@@ -1,3 +1,23 @@
+Housing-Price-Prediction/
+│
+├── notebooks/
+│   ├── 01_EDA.ipynb         # Exploratory Data Analysis
+│   ├── 02_SLR.ipynb         # Simple Linear Regression
+│   ├── 03_MLR.ipynb         # Multiple Linear Regression
+│   ├── 04_Polynomial.ipynb  # Polynomial Regression
+│   ├── 05_Ridge.ipynb       # Ridge Regression
+│   └── 06_Lasso.ipynb       # Lasso Regression
+│
+├── data/
+│   └── california_housing.csv
+│
+└── README.md
+
+
+
+
+
+
 🏠 California Housing Dataset – Exploratory Data Analysis (EDA)
 
 This project contains an EDA of the California Housing dataset, with a focus on understanding relationships between housing features, engineered ratios, and the target variable, median_house_value.
